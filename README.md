@@ -12,7 +12,3 @@ Each example is in its own directory under examples/. To work with an example, o
 Some examples may refer to other branches, and will ask you to check out those branches before you begin.
 Once you check out that branch, the readme within the example folder will update.
 
-## The basics
-
-The main branch you are on is pretty basic, with a couple of example folders.
-But we can still learn a thing or two from this.
