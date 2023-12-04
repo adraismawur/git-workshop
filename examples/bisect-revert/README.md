@@ -1,3 +1,5 @@
-Please check out the 'bisect' branch using ```git checkout bisect```
+# Bisect-revert
 
-Make sure you don't have any active changes! use ```git reset --hard``` to go back to the base state.
+In this example, you will find a commit that introduced a mistake in this branch using ```git bisect```, and then revert it using ```git revert```.
+
+This is the first commit of this branch.
