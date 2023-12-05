@@ -1,6 +1,6 @@
 # Merging
 
-This is a simple example to show you how two forms of merge strategies work, and how they affect the history of your branch.
+This is a simple example to show you how three forms of merge strategies work, and how they affect the history of your branch.
 
 ## Fast-forwarding
 
