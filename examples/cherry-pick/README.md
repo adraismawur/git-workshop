@@ -5,7 +5,7 @@ Cherry picking is a simple way of including specific commits into a branch from 
 This can be used in the following cases:
 
 - You want to abandon a branch, but keep some of the work
-- You want to rebuild a branch only with certain commits
+- You want to rebuild a branch only with certain commits (and you don't want to touch ```git rebase```)
 - You want to merge someone elses work, bit by bit.
 
 ### Make an experimental branch
