@@ -13,7 +13,7 @@ This set of examples assumes:
 - You have GIT installed
 - You know how to clone, add, commit
 
-Clone or download this repository to begin.
+Fork this repository, then clone your repository to begin.
 
 This set of examples works best if you have an IDE you can use to keep an eye on the README.md while you work in the command line.
 
