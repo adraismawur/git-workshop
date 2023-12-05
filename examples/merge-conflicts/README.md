@@ -62,8 +62,20 @@ In case you want to keep the current changes (from the main branch you're on):
 - delete the ```<<<<<<< HEAD``` mark
 - delete everything under ```=======``` up to and including ```>>>>>>> [branch-name]```
 
-One thing to note in these cases is that you get to choose what to keep. You can remove everything, keep one side, or keep both.
+One thing to note in these cases is that you get to choose what to keep.
+You can remove everything, keep one side, or keep both.
 You can also pick and choose lines that you want to keep.
+All you need to do is get rid of those lines starting with ```>```, ```=``` and ```<``` in the file that has a conflict.
 
 Probably the simpler your solution is, the better.
+
+Once you are done editing, save the file and use ```git add [file path]``` to stage the file.
+Then you can run ```git commit``` to finalize the merge.
+
+
+Sometimes GIT can create very strange merge conflicts within files, but they will always have some form like above.
+Take a deep breath and try and understand what is coming in, and what changes it conflicts with.
+
+If all else fails, you can always abort a merge by typing in ```git merge --abort```
+
 
