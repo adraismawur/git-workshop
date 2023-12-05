@@ -130,7 +130,7 @@ It will look something like this, with a fork and a merging fork:
 | | Author: Arjan Draisma <arjan.draisma@wur.nl>
 | | Date:   Mon Dec 4 22:58:33 2023 +0100
 | |
-| |     update readme
+| |     Merge branch 'diverging-branch' into main
 | |
 * | commit 17e8b32284d375bb6c5e218586893d5428fcb719
 | | Author: Arjan Draisma <arjan.draisma@wur.nl>
