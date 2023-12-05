@@ -9,6 +9,5 @@ This repository contains a number of examples relating to the workshop, but shou
 
 Each example is in its own directory under examples/. To work with an example, open the README.md in that example folder.
 
-Some examples may refer to other branches, and will ask you to check out those branches before you begin.
-Once you check out that branch, the readme within the example folder will update.
+This set of examples works best if you have an IDE you can use to keep an eye on the README.md while you work in the command line.
 
