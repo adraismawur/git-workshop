@@ -10,7 +10,9 @@ $ git checkout main
 $ git reset --hard origin/main
 ```
 
-I will not give you too many commands here.
+I will not give you too many commands below.
+This is just a short fun exercise to show you how the GitHub way of working goes.
+
 If you need help with anything, ask me during the workshop, but you probably know how to do these things:
 
 1. Create a new branch called hotfix/annoying-dog
