@@ -34,7 +34,7 @@ A---B main
      \---C merge-fast-forward
 ```
 
-With the ```git merge``` command, we are merging _into_ the current branch _from_ a branch we specify. So to perform the merge, run ```git merge fast-forward```.
+With the ```git merge``` command, we are merging _into_ the current branch _from_ a branch we specify. So to perform the merge, run ```git merge merge-fast-forward```.
 
 You should see something like this:
 
