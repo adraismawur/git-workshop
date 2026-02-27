@@ -10,8 +10,11 @@ Because of this, GIT can simply apply those same changes to the branch which you
 
 In order to see this in action, create a new branch based off of this branch using ```git branch merge-fast-forward```.
 
+Go to this brench by using ```git checkout merge-fast-forward```
+
 In this branch, create a new file under the examples/merge folder.
 
+Stage the file by running ```git add .```
 
 Commit the file using ```git commit -m "added new file"```
 
@@ -34,7 +37,7 @@ A---B main
      \---C merge-fast-forward
 ```
 
-With the ```git merge``` command, we are merging _into_ the current branch _from_ a branch we specify. So to perform the merge, run ```git merge fast-forward```.
+With the ```git merge``` command, we are merging _into_ the current branch _from_ a branch we specify. So to perform the merge, run ```git merge merge-fast-forward```.
 
 You should see something like this:
 
